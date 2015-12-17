@@ -1,0 +1,6 @@
+1. Qt installation
+2. creating first project - error removal, running
+3. Qt UI - edit, designer, help
+4. files - .h, .cpp, .ui
+5. Qt widgets - drag and drop
+6. signals and slots
